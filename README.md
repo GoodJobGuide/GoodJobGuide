@@ -14,4 +14,4 @@
 
 <br>
 
-进入 <a href="https://www.goodjob.guide/anonymous">GoodJob.Guide 匿名社区</a> 了解职场近况～
+进入 <a href="https://community.goodjob.guide/">GoodJob.Guide 匿名社区</a> 了解职场近况～
