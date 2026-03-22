@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://goodjob.guide/logo.png" /
+  <img src="https://goodjob.guide/logo.svg" /
 </p>
 
 <h2 align="center">
